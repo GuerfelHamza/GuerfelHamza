@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guerfel Hamza</h1>
 <h3 align="center">AWS Solutions Architect | Full Stack Developer (React | Next.js | Node.js | Express | Nest.js)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guerrfelhamza&label=Profile%20views&color=0e75b6&style=flat" alt="guerrfelhamza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guerrfelhamza" alt="guerrfelhamza" /></a> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/hamza-guerfel-313154381/**
 
