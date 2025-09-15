@@ -37,7 +37,7 @@ I thrive in **SCRUM environments**, actively using **JIRA** for project tracking
 ### 🏆 Featured Projects
 
 - [To-Do List](https://GuerfelHamza.github.io/To-Do-List/) – Interactive web app for task management
-- [API Weather](https://GuerfelHamza.github.io/Weather-API-JS-HTML.git) – Personal portfolio site
+- [API Weather](https://GuerfelHamza.github.io/Weather-API-JS-HTML/) – Small Weather App th check the weather in 7 days
 
 ### 📫 Contact Me
 
