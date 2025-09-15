@@ -36,41 +36,10 @@ I thrive in **SCRUM environments**, actively using **JIRA** for project tracking
 
 ### 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://GuerfelHamza.github.io/To-Do-List/"><img src="https://via.placeholder.com/200x120.png?text=To-Do+List" alt="To-Do List" /></a>
-  <a href="https://GuerfelHamza.github.io/Portfolio/"><img src="https://via.placeholder.com/200x120.png?text=Portfolio" alt="Portfolio" /></a>
-</p>
-
 - [To-Do List](https://GuerfelHamza.github.io/To-Do-List/) – Interactive web app for task management
-- [Portfolio](https://GuerfelHamza.github.io/Portfolio/) – Personal portfolio site
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuerfelHamza&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuerfelHamza&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
+- [API Weather](https://GuerfelHamza.github.io/Weather-API-JS-HTML.git) – Personal portfolio site
 
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-guerfel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="guerfel.hamza.2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-### ✨ Fun / Personal
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" />
-</p>
-
----
+  <a href="https://www.linkedin.com/in/hamza-guerfel-313154381/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
